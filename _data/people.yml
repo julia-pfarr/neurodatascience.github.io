@@ -182,3 +182,11 @@ Michelle:
     role: grad
     image: /img/people/michelle.jpg
     bio: PhD student
+
+Remi:
+    display_name: "Remi Gau"
+    webpage: "https://github.com/michellewang"
+    github: Remi-Gau
+    role: staff
+    image: /img/people/remi.jpg
+    bio: Research Associate

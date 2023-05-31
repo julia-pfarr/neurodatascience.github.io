@@ -8,10 +8,11 @@ We’re pleased to announce a satellite event to the 2023 Organisation for Human
 
 The event will take place at the Montreal Neurological Institute on Thursday 27th July (the day after the close of OHBM).  There will be 4 keynote speakers, starting with the Keith Worsley lecture delivered by Jonathan Taylor, Keith’s prolific student and author of the seminal text “Random Fields and Geometry” with Robert J. Adler.  
 
-<!-- … 
-## Attend or contribute
+### Attend 
 
-#### We have space for 8 contributed lectures please use [this link](https://forms.gle/YraFS9AVLPozjwZY9) to attend or contribute.
+#### The space is limited, please use [this link](https://forms.gle/CWjZsvdugcHzQKP2A ) to register to the event.
+<!-- … 
+https://forms.gle/CWjZsvdugcHzQKP2A
 -->
 
 ### Program
@@ -31,7 +32,7 @@ The event will take place at the Montreal Neurological Institute on Thursday 27t
 **11:45-12:30** 
 * Keynote: **Mandy Meija** : Rethinking scrubbing in fMRI from a statistical perspective
 
-#### 12:30-13:30 Lunch break 
+##### 12:30-13:30 Lunch break (sponsored by ASA-statistics in imaging)
 
 **13:30-2:15** 
 * Keynote: **Jelle Goeman** : Rethinking scrubbing in fMRI from a statistical perspective
@@ -49,6 +50,12 @@ The event will take place at the Montreal Neurological Institute on Thursday 27t
 
 ### Venue: De Grand Pré Conference Centre
 De grand pré, Montreal Neurological Institute, McGill University, 3801 Rue University, Montréal, QC H3A 2B4, Canada
+
+
+#### Sponsors: ASA statistics in imaging section
+<img src="ASA-SI-logo.png"
+     alt="ASA-SI-logo"
+     style="float: left; margin-right: 10px;" />
 
 #### Abstracts:
 

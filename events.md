@@ -8,12 +8,12 @@ We’re pleased to announce a satellite event to the 2023 Organisation for Human
 
 The event will take place at the Montreal Neurological Institute on Thursday 27th July (the day after the close of OHBM).  There will be 4 keynote speakers, starting with the Keith Worsley lecture delivered by Jonathan Taylor, Keith’s prolific student and author of the seminal text “Random Fields and Geometry” with Robert J. Adler.  
 
-### Attend 
-
-#### The space is limited, please use [this link](https://forms.gle/CWjZsvdugcHzQKP2A ) to register to the event.
+### Register to attend 
+The space is limited, please use [this link](https://forms.gle/CWjZsvdugcHzQKP2A ) to register to the event.
 <!-- … 
 https://forms.gle/CWjZsvdugcHzQKP2A
 -->
+<br/>
 
 ### Program
 
@@ -53,9 +53,11 @@ De grand pré, Montreal Neurological Institute, McGill University, 3801 Rue Univ
 
 
 #### Sponsors: ASA statistics in imaging section
-<img src="ASA-SI-logo.png"
+<img src="./ASA-SI-logo.png"
      alt="ASA-SI-logo"
      style="float: left; margin-right: 10px;" />
+
+<br/>
 
 #### Abstracts:
 

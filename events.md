@@ -21,12 +21,12 @@ The event will take place at the Montreal Neurological Institute on Thursday 27t
 * Keynote: Inaugural Keith Worsley lecture : **Jonathan Taylor** : Random field theory meets the LASSO
 
 **10:30:11:45**
-- Samuel Davenport: Accurate voxelwise FWER control in fMRI using Random Field Theory
-- Sarah Weinstein: Spatially-enhanced clusterwise inference for testing and localizing intermodal correspondence
+- **Samuel Davenport**: Accurate voxelwise FWER control in fMRI using Random Field Theory
+- **Sarah Weinstein**: Spatially-enhanced clusterwise inference for testing and localizing intermodal correspondence
 
 **Break** 
-- Bertrand Thirion: False Discovery Proportion control for aggregated Knockoffs
-- Chris Camp: Contextualizing classification accuracy within effect sizes
+- **Bertrand Thirion**: False Discovery Proportion control for aggregated Knockoffs
+- **Chris Camp**: Contextualizing classification accuracy within effect sizes
 
 **11:45-12:30** 
 * Keynote: **Mandy Meija** : Rethinking scrubbing in fMRI from a statistical perspective
@@ -38,12 +38,12 @@ The event will take place at the Montreal Neurological Institute on Thursday 27t
 * Keynote: **Jelle Goeman** : Rethinking scrubbing in fMRI from a statistical perspective
 
 **2:15-3:30**
-Yifan Yu: Neuroimaging Meta Regression for Coordinate Based Meta Analysis Data with a Spatial Model
-Jun Young Park: SAN-GP: Mitigating inter-scanner biases in high-dimensional neuroimaging data via spatial Gaussian process
+* **Yifan Yu**: Neuroimaging Meta Regression for Coordinate Based Meta Analysis Data with a Spatial Model
+* **Jun Young Park**: SAN-GP: Mitigating inter-scanner biases in high-dimensional neuroimaging data via spatial Gaussian process
 
 **Break** 
-Ian-Christopher Tanoh: A scalable multivariate Bayesian polygenic model for heritability-based principal
-Habib Ganjgahi: Scalable Hierarchical Bayesian Model for Multiple Sclerosis Progression using Brain Imaging and Clinical Features
+* **Ian-Christopher Tanoh**: A scalable multivariate Bayesian polygenic model for heritability-based principal
+* **Habib Ganjgahi**: Scalable Hierarchical Bayesian Model for Multiple Sclerosis Progression using Brain Imaging and Clinical Features
 
 **3:30-4:30** 
 - Keynote: **Martin Linquist** :Individualized spatial topography in functional neuroimaging 
@@ -56,9 +56,13 @@ De grand pré, Montreal Neurological Institute, McGill University, 3801 Rue Univ
 ### Abstracts:
 
 -Keynote 1:
+
 -Keynote 2:
+
 -Keynote 3:
+
 -Keynote 4:
+
 
 
 

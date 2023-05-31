@@ -18,35 +18,49 @@ The event will take place at the Montreal Neurological Institute on Thursday 27t
 
 **9:30-10:30**
 * Introductory remarks: Tom Nichols, JB Poline
-* Keynote: Inaugural Keith Worsley lecture : **Jonathan Taylor**
+* Keynote: Inaugural Keith Worsley lecture : **Jonathan Taylor** : Random field theory meets the LASSO
 
 **10:30:11:45**
-* 2X 15mn presentation TBA
+- Samuel Davenport: Accurate voxelwise FWER control in fMRI using Random Field Theory
+- Sarah Weinstein: Spatially-enhanced clusterwise inference for testing and localizing intermodal correspondence
 
 **Break** 
-* 2X 15mn presentation TBA
+- Bertrand Thirion: False Discovery Proportion control for aggregated Knockoffs
+- Chris Camp: Contextualizing classification accuracy within effect sizes
 
 **11:45-12:30** 
-* Keynote: **Mandy Meija**
+* Keynote: **Mandy Meija** : Rethinking scrubbing in fMRI from a statistical perspective
 
 ### 12:30-13:30 Lunch break 
 
 ### Afternoon : 
 **13:30-2:15** 
-* Keynote: **Jelle Goeman**
+* Keynote: **Jelle Goeman** : Rethinking scrubbing in fMRI from a statistical perspective
 
 **2:15-3:30**
-* 2X 15mn presentation TBA
+Yifan Yu: Neuroimaging Meta Regression for Coordinate Based Meta Analysis Data with a Spatial Model
+Jun Young Park: SAN-GP: Mitigating inter-scanner biases in high-dimensional neuroimaging data via spatial Gaussian process
 
 **Break** 
-* 2X 15mn presentation TBA
+Ian-Christopher Tanoh: A scalable multivariate Bayesian polygenic model for heritability-based principal
+Habib Ganjgahi: Scalable Hierarchical Bayesian Model for Multiple Sclerosis Progression using Brain Imaging and Clinical Features
 
 **3:30-4:30** 
-- Keynote: **Martin Linquist**
+- Keynote: **Martin Linquist** :Individualized spatial topography in functional neuroimaging 
 
 ## Venue
 
 ### De Grand Pré Conference Centre
 De grand pré, Montreal Neurological Institute, McGill University, 3801 Rue University, Montréal, QC H3A 2B4, Canada
+
+### Abstracts:
+
+-Keynote 1:
+-Keynote 2:
+-Keynote 3:
+-Keynote 4:
+
+
+
 
 

@@ -14,9 +14,7 @@ The event will take place at the Montreal Neurological Institute on Thursday 27t
 #### We have space for 8 contributed lectures please use [this link](https://forms.gle/YraFS9AVLPozjwZY9) to attend or contribute.
 -->
 
-## Program
-
-### Morning: 
+### Program
 
 **9:30-10:30**
 * Introductory remarks: Tom Nichols, JB Poline
@@ -33,9 +31,8 @@ The event will take place at the Montreal Neurological Institute on Thursday 27t
 **11:45-12:30** 
 * Keynote: **Mandy Meija** : Rethinking scrubbing in fMRI from a statistical perspective
 
-### 12:30-13:30 Lunch break 
+#### 12:30-13:30 Lunch break 
 
-### Afternoon : 
 **13:30-2:15** 
 * Keynote: **Jelle Goeman** : Rethinking scrubbing in fMRI from a statistical perspective
 
@@ -50,12 +47,10 @@ The event will take place at the Montreal Neurological Institute on Thursday 27t
 **3:30-4:30** 
 - Keynote: **Martin Linquist** :Individualized spatial topography in functional neuroimaging 
 
-## Venue
-
-### De Grand Pré Conference Centre
+### Venue: De Grand Pré Conference Centre
 De grand pré, Montreal Neurological Institute, McGill University, 3801 Rue University, Montréal, QC H3A 2B4, Canada
 
-### Abstracts:
+#### Abstracts:
 
 Jonathan Taylor: Random field theory meets the LASSO
 

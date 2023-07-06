@@ -35,7 +35,7 @@ https://forms.gle/CWjZsvdugcHzQKP2A
 ##### 12:30-13:30 Lunch break (sponsored by ASA-statistics in imaging)
 
 **13:30-2:15** 
-* Keynote: **Jelle Goeman** : Rethinking scrubbing in fMRI from a statistical perspective
+* Keynote: **Jelle Goeman** : Cluster extent inference revisited: quantification and localization of brain activity 
 
 **2:15-3:30**
 * **Yifan Yu**: Neuroimaging Meta Regression for Coordinate Based Meta Analysis Data with a Spatial Model
@@ -56,6 +56,8 @@ De grand pré, Montreal Neurological Institute, McGill University, 3801 Rue Univ
 <img src="ASA-SI-logo.png"
      alt="ASA-SI-logo"
      style="float: left; margin-right: 50px;" />
+
+<br/>
 
 <br/>
 

@@ -54,6 +54,7 @@ https://forms.gle/CWjZsvdugcHzQKP2A
 ### Venue: De Grand Pré Conference Centre
 De grand pré, Montreal Neurological Institute, McGill University, 3801 Rue University, Montréal, QC H3A 2B4, Canada
 
+[Use this link to locate the workshop room](https://www.mcgill.ca/neuro/about/contact/find-us/wayfinding)
 
 #### Sponsors: ASA statistics in imaging section
 <img src="ASA-SI-logo.png"

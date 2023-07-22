@@ -9,7 +9,10 @@ We’re pleased to announce a satellite event to the 2023 Organisation for Human
 The event will take place at the Montreal Neurological Institute on Thursday 27th July (the day after the close of OHBM).  There will be 4 keynote speakers, starting with the Keith Worsley lecture delivered by Jonathan Taylor, Keith’s prolific student and author of the seminal text “Random Fields and Geometry” with Robert J. Adler.  
 
 ### Register to attend 
+Registrations are closed as we have reached capacity. 
+<!-- … 
 The space is limited, please use [this link](https://forms.gle/CWjZsvdugcHzQKP2A ) to register to the event.
+-->
 <!-- … 
 https://forms.gle/CWjZsvdugcHzQKP2A
 -->
@@ -22,12 +25,12 @@ https://forms.gle/CWjZsvdugcHzQKP2A
 * Keynote: Inaugural Keith Worsley lecture : **Jonathan Taylor** : Random field theory meets the LASSO
 
 **10:30:11:45**
-- **Samuel Davenport**: Accurate voxelwise FWER control in fMRI using Random Field Theory
-- **Sarah Weinstein**: Spatially-enhanced clusterwise inference for testing and localizing intermodal correspondence
+- **Samuel Davenport**: Accurate voxelwise FWER control in fMRI using Random Field Theory (10'+5')
+- **Sarah Weinstein**: Spatially-enhanced clusterwise inference for testing and localizing intermodal correspondence (10'+5')
 
-**Break** 
-- **Bertrand Thirion**: False Discovery Proportion control for aggregated Knockoffs
-- **Chris Camp**: Contextualizing classification accuracy within effect sizes
+**Break 15'** 
+- **Bertrand Thirion**: False Discovery Proportion control for aggregated Knockoffs (10'+5')
+- **Chris Camp**: Contextualizing classification accuracy within effect sizes (10'+5')
 
 **11:45-12:30** 
 * Keynote: **Mandy Meija** : Rethinking scrubbing in fMRI from a statistical perspective
@@ -38,12 +41,12 @@ https://forms.gle/CWjZsvdugcHzQKP2A
 * Keynote: **Jelle Goeman** : Cluster extent inference revisited: quantification and localization of brain activity 
 
 **2:15-3:30**
-* **Yifan Yu**: Neuroimaging Meta Regression for Coordinate Based Meta Analysis Data with a Spatial Model
-* **Jun Young Park**: SAN-GP: Mitigating inter-scanner biases in high-dimensional neuroimaging data via spatial Gaussian process
+* **Yifan Yu**: Neuroimaging Meta Regression for Coordinate Based Meta Analysis Data with a Spatial Model (10'+5')
+* **Jun Young Park**: SAN-GP: Mitigating inter-scanner biases in high-dimensional neuroimaging data via spatial Gaussian process (10'+5')
 
-**Break** 
-* **Ian-Christopher Tanoh**: A scalable multivariate Bayesian polygenic model for heritability-based principal
-* **Habib Ganjgahi**: Scalable Hierarchical Bayesian Model for Multiple Sclerosis Progression using Brain Imaging and Clinical Features
+**Break 15'** 
+* **Ian-Christopher Tanoh**: A scalable multivariate Bayesian polygenic model for heritability-based principal (10'+5')
+* **Habib Ganjgahi**: Scalable Hierarchical Bayesian Model for Multiple Sclerosis Progression using Brain Imaging and Clinical Features (10'+5')
 
 **3:30-4:30** 
 - Keynote: **Martin Linquist** :Individualized spatial topography in functional neuroimaging 

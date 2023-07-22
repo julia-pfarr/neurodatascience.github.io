@@ -67,6 +67,9 @@ De grand pré, Montreal Neurological Institute, McGill University, 3801 Rue Univ
 
 <br/>
 
+#### Sponsors: McConnell Brain Imaging Centre
+
+
 #### Abstracts:
 
 Jonathan Taylor: Random field theory meets the LASSO

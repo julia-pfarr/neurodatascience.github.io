@@ -1,4 +1,6 @@
 ---
+# Sorted by role
+
 JB:
     display_name: Jean-Baptiste Poline
     webpage: https://www.mcgill.ca/neuro/jean-baptiste-poline-phd
@@ -6,6 +8,114 @@ JB:
     role: faculty
     image: /img/people/jb.jpg
     bio: Principal Investigator
+
+## ---------------- STAFF ----------------
+
+Sebastian:
+    display_name: Sebastian Urchs
+    webpage: https://www.surchs.com/
+    github: surchs
+    role: staff
+    image: /img/people/sebastian.jpg
+    bio: Research Software Developer
+
+Alyssa:
+    display_name: Alyssa Dai
+    webpage: https://github.com/alyssadai
+    github: alyssadai
+    role: staff
+    image: /img/people/alyssa.png
+    bio: Research Software Developer
+
+Arman:
+    display_name: Arman Jahanpour
+    webpage: https://github.com/rmanaem
+    github: rmanaem
+    role: staff
+    image: /img/people/arman.jpg
+    bio: Research Software Developer
+
+Remi:
+    display_name: Remi Gau
+    webpage: https://remi-gau.github.io/
+    github: Remi-Gau
+    role: staff
+    image: /img/people/remi.jpg
+    bio: Research Associate
+
+## ---------------- POST-DOC ----------------
+
+Brent:
+    display_name: Brent McPherson
+    github: bcmcpher
+    role: postdoc
+    image: /img/people/brent.jpg
+    bio: Postdoctoral researcher
+
+Nikhil:
+    display_name: Nikhil Bhagwat
+    webpage: https://nikhil153.github.io/
+    github: nikhil153
+    role: postdoc
+    image: /img/people/nikhil.png
+    bio: Academic Associate
+
+## ---------------- GRAD ----------------
+
+Kendra:
+    display_name: Kendra Oudyk
+    webpage: https://koudyk.github.io/
+    github: koudyk
+    role: grad
+    image: /img/people/kendra.jpg
+    bio: PhD student
+
+Irene:
+    display_name: Ting Zhang
+    webpage:
+    github:
+    role: grad
+    image: /img/people/irene.jpeg
+    bio: PhD student
+
+Jacob:
+    display_name: Jacob Sanz-Robinson
+    webpage: https://jacobsanz97.github.io/
+    github: jacobsanz97
+    role: grad
+    image: /img/people/jacob.jpg
+    bio: PhD student
+
+Mohammad:
+    display_name: Mohammad Torabi
+    github: mtorabi59
+    role: grad
+    image: /img/people/MohammadT.jpg
+    bio: PhD student
+
+Emad:
+    display_name: Emad Askarinejad
+    github: emad-askari
+    role: grad
+    image: /img/people/Emad.JPG
+    bio: PhD student
+
+Niusha:
+    display_name: Niusha Mirhakimi
+    github: mirhnius
+    role: grad
+    image: /img/people/niusha.jpg
+    bio: MSc student
+
+Michelle:
+    display_name: Michelle Wang
+    webpage: https://github.com/michellewang
+    github: michellewang
+    role: grad
+    image: /img/people/michelle.jpg
+    bio: PhD student
+
+## ---------------- ALUMNI ----------------
 
 Gael:
     display_name: Gaël Varoquaux
@@ -47,22 +157,6 @@ Vincent:
     image: /img/people/vincent.jpg
     bio: Postdoctoral researcher
 
-Jerome:
-    display_name: Jérôme Dockès
-    webpage: https://jeromedockes.github.io/
-    github: jeromedockes
-    role: alum
-    image: /img/people/jerome.jpg
-    bio: Postdoctoral researcher
-
-Kendra:
-    display_name: Kendra Oudyk
-    webpage: https://koudyk.github.io/
-    github: koudyk
-    role: grad
-    image: /img/people/kendra.jpg
-    bio: PhD student
-
 Elizabeth:
     display_name: Elizabeth DuPre
     webpage: https://elizabeth-dupre.com/
@@ -71,81 +165,10 @@ Elizabeth:
     image: /img/people/elizabeth.jpg
     bio: PhD student
 
-Irene:
-    display_name: Ting Zhang
-    webpage:
-    github:
-    role: grad
-    image: /img/people/irene.jpeg
-    bio: PhD student
-
-Jacob:
-    display_name: Jacob Sanz-Robinson
-    webpage: https://jacobsanz97.github.io/
-    github: jacobsanz97
-    role: grad
-    image: /img/people/jacob.jpg
-    bio: PhD student
-
 Alex:
     display_name: Alexandre Pérez
     role: alum
     bio: Research Trainee
-
-Lukas:
-    display_name: Lukas Shannon
-    role: alum
-    bio: Undergraduate Researcher
-
-Kate:
-    display_name: Kate Kim
-    role: alum
-    bio: Undergraduate Researcher
-
-Nikhil:
-    display_name: Nikhil Bhagwat
-    webpage: https://nikhil153.github.io/
-    github: nikhil153
-    role: postdoc
-    image: /img/people/nikhil.png
-    bio: Academic Associate
-
-Sebastian:
-    display_name: Sebastian Urchs
-    webpage: https://www.surchs.com/
-    github: surchs
-    role: staff
-    image: /img/people/sebastian.jpg
-    bio: Research Software Developer
-
-Mohammad:
-    display_name: Mohammad Torabi
-    github: mtorabi59
-    role: grad
-    image: /img/people/MohammadT.jpg
-    bio: PhD student
-
-Jonathan:
-    display_name: Jonathan Armoza
-    github: jarmoza
-    role: alum
-    image: /img/people/jonathan.jpg
-    bio: Research Software Developer
-
-Alyssa:
-    display_name: Alyssa Dai
-    webpage: https://github.com/alyssadai
-    github: alyssadai
-    role: staff
-    image: /img/people/alyssa.png
-    bio: Research Software Developer
-
-Emad:
-    display_name: Emad Askarinejad
-    github: emad-askari
-    role: grad
-    image: /img/people/Emad.JPG
-    bio: PhD student
 
 Ines:
     display_name: Inés Gonzalez Pepe
@@ -154,40 +177,27 @@ Ines:
     image: /img/people/ines.jpg
     bio: Research Assistant
 
-Brent:
-    display_name: Brent McPherson
-    github: bcmcpher
-    role: postdoc
-    image: /img/people/brent.jpg
-    bio: Postdoctoral researcher
-
-Niusha:
-    display_name: Niusha Mirhakimi
-    github: mirhnius
-    role: grad
-    image: /img/people/niusha.jpg
-    bio: MSc student
-
-Arman:
-    display_name: Arman Jahanpour
-    webpage: https://github.com/rmanaem
-    github: rmanaem
-    role: staff
-    image: /img/people/arman.jpg
+Jonathan:
+    display_name: Jonathan Armoza
+    github: jarmoza
+    role: alum
+    image: /img/people/jonathan.jpg
     bio: Research Software Developer
 
-Michelle:
-    display_name: Michelle Wang
-    webpage: https://github.com/michellewang
-    github: michellewang
-    role: grad
-    image: /img/people/michelle.jpg
-    bio: PhD student
+Kate:
+    display_name: Kate Kim
+    role: alum
+    bio: Undergraduate Researcher
 
-Remi:
-    display_name: Remi Gau
-    webpage: https://remi-gau.github.io/
-    github: Remi-Gau
-    role: staff
-    image: /img/people/remi.jpg
-    bio: Research Associate
+Lukas:
+    display_name: Lukas Shannon
+    role: alum
+    bio: Undergraduate Researcher
+
+Jerome:
+    display_name: Jérôme Dockès
+    webpage: https://jeromedockes.github.io/
+    github: jeromedockes
+    role: alum
+    image: /img/people/jerome.jpg
+    bio: Postdoctoral researcher

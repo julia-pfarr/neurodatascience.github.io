@@ -11,7 +11,7 @@ Gael:
     display_name: Gaël Varoquaux
     webpage: http://gael-varoquaux.info/
     github: GaelVaroquaux
-    role: faculty
+    role: alum
     image: /img/people/gael.jpg
     bio: Visiting Professor (Research Director, Inria)
 
@@ -51,7 +51,7 @@ Jerome:
     display_name: Jérôme Dockès
     webpage: https://jeromedockes.github.io/
     github: jeromedockes
-    role: postdoc
+    role: alum
     image: /img/people/jerome.jpg
     bio: Postdoctoral researcher
 
@@ -75,7 +75,7 @@ Irene:
     display_name: Ting Zhang
     webpage:
     github:
-    role: grad
+    role: alum
     image: /img/people/irene.jpeg
     bio: PhD student
 
@@ -128,7 +128,7 @@ Mohammad:
 Jonathan:
     display_name: Jonathan Armoza
     github: jarmoza
-    role: staff
+    role: alum
     image: /img/people/jonathan.jpg
     bio: Research Software Developer
 
@@ -150,7 +150,7 @@ Emad:
 Ines:
     display_name: Inés Gonzalez Pepe
     github:
-    role: staff
+    role: alum
     image: /img/people/ines.jpg
     bio: Research Assistant
 

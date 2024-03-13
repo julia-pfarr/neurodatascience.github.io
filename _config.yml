@@ -2,7 +2,7 @@
 name: NeuroDataScience ORIGAMI Research Group
 url: https://neurodatascience.github.io/
 
-exclude: [bibble, README.md, Makefile, screenshot.png]
+exclude: [bibble, README.md, Makefile]
 
 # colorize code snippets with the pygments module
 highlighter: rouge

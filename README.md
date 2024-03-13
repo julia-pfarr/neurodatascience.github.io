@@ -1,17 +1,15 @@
-Adding Yourself to the Web Site
-================================
-* Create a fork of the website repository.
-* Clone the forked repository on your machine.
-* Switch branch (checkout) to the gh-pages branch.
-* Add your picture to the /img/people/ folder
-* Open the _data/people.yml file, and add an entry for yourself following the existing structure.
-* If you wish to add your project description to the website, go to the /_projects folder, and create a new .md file following the structure of the other .md files there.
-* Add, commit, and push the changes to your fork.
-* Create a Pull Request so your changes can be accepted in the main repository.
+# Adding Yourself to the Web Site
 
+- Create a fork of the website repository.
+- Clone the forked repository on your machine.
+- Switch branch (checkout) to the gh-pages branch.
+- Add your picture to the /img/people/ folder
+- Open the \_data/people.yml file, and add an entry for yourself following the existing structure.
+- If you wish to add your project description to the website, go to the /\_projects folder, and create a new .md file following the structure of the other .md files there.
+- Add, commit, and push the changes to your fork.
+- Create a Pull Request so your changes can be accepted in the main repository.
 
-Research Group Web Site Template
-================================
+# Research Group Web Site Template
 
 This is a [Jekyll][]-based Web site intended for research groups. Your group should be able to get up and running with minimal fuss.
 
@@ -19,29 +17,25 @@ This is a [Jekyll][]-based Web site intended for research groups. Your group sho
 <img src="screenshot.png" width="387" height="225" alt="screenshot of the template">
 </p>
 
-This project originated at the University of Washington.  You can see the machinery working live at [our site][sampa].
+This project originated at the University of Washington. You can see the machinery working live at [our site][sampa].
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][license].
 
 [sampa]: http://sampa.cs.washington.edu/
 [license]: https://creativecommons.org/licenses/by-nc/4.0/
 
+## Features
 
-Features
---------
-
-* Thanks to [Jekyll][], content is just text files. So even faculty should be able to figure it out.
-* Publications list generated from BibTeX.
-* Personnel list. Organize your professors, students, staff, and alumni.
-* Combined news stream and blog posts.
-* Easily extensible navigation bar.
-* Responsive (mobile-ready) design based on [Bootstrap][].
+- Thanks to [Jekyll][], content is just text files. So even faculty should be able to figure it out.
+- Publications list generated from BibTeX.
+- Personnel list. Organize your professors, students, staff, and alumni.
+- Combined news stream and blog posts.
+- Easily extensible navigation bar.
+- Responsive (mobile-ready) design based on [Bootstrap][].
 
 [Bootstrap]: http://getbootstrap.com/
 
-
-Setup
------
+## Setup
 
 1. Install the dependencies. You will need [Python][], [bibble][] (`pip install bibble`), and [Jekyll][] (`gem install jekyll`).
 2. [Fork][] this repository on GitHub.
@@ -55,15 +49,11 @@ Setup
 [Python]: https://www.python.org/
 [Fork]: https://github.com/uwsampa/research-group-web/fork
 
-
-Publication List
-----------------
+## Publication List
 
 The list of publications is in `bib/pubs.bib`. Typing `make` will generate `pubs.html`, which contains a pretty, sorted HTML-formatted list of papers. The public page, `publications.html`, also has a link to download the original BibTeX.
 
-
-News Items and Blog Posts
--------------------------
+## News Items and Blog Posts
 
 For both long-form blog posts and short news updates, we use Jekyll's blogging system. To post a new item of either type, you create a file in the `_posts` directory using the naming convention `YYYY-MM-DD-title-for-url.md`. The date part of the filename always matters; the title part is currently only used for full blog posts (but is still required for news updates).
 
@@ -88,8 +78,7 @@ You can also customize the icon that is displayed on the news feed. By default i
 [yfm]: http://jekyllrb.com/docs/frontmatter/
 [fa]: http://fontawesome.io/icons/
 
-Projects
---------
+## Projects
 
 To create a project, just create a markdown file in the `_projects` folder. Here are the things you can put in the YAML frontmatter:
 
@@ -104,30 +93,25 @@ To create a project, just create a markdown file in the `_projects` folder. Here
 - `link:` Set this to an external URL if this project has a page somewhere else on the web. If you don't have a `link:`, then the content of this markdown file (below the YAML frontmatter) will be this project's page.
 - `no-link: true` Set this if you just don't want a project page for your project.
 
-Personnel
----------
+## Personnel
 
 People are listed in a [YAML][] file in `_data/people.yml`. You can list the name, link, bio, and role of each person. Roles (e.g., "Faculty", "Staff", and "Students") are defined in `_config.yml`.
 
 [YAML]: https://en.wikipedia.org/wiki/YAML
 
-
-Building
---------
+## Building
 
 The requirements for building the site are:
 
-* [Jekyll][]: run `gem install jekyll`
-* [bibble][]: available on `pip`
-* ssh and rsync, only if you want to deploy directly.
+- [Jekyll][]: run `gem install jekyll`
+- [bibble][]: available on `pip`
+- ssh and rsync, only if you want to deploy directly.
 
 `make` compiles the bibliography and the website content to the `_site`
 directory. To preview the site, run `jekyll serve`` and head to
 http://0.0.0.0:5000.
 
-
-Deploying to Your Sever
------------------------
+## Deploying to Your Sever
 
 To set up deployments, edit the Makefile and look for the lines where `HOST` and `DIR` are defined. Change these to the host where your HTML files should be copied to.
 

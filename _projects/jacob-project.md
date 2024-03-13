@@ -13,4 +13,3 @@ In order to achieve this goal, a computational platform must be constructed that
 
 Check out the code and functional demo on my [GitHub](https://github.com/neurodatascience/NeuroCI)
 Check out the initial eScience [publication](https://ieeexplore.ieee.org/document/9973641)
-

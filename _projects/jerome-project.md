@@ -11,5 +11,3 @@ Machine learning can be applied to large datasets of biomedical measurements and
 1. Investigate to what extend dataset shifts degrade the prediction performance of machine learning models on the UKBiobank dataset.
 
 2. Evaluate methods that can detect or correct dataset shifts. In particular, we plan to leverage recent advances in the field of distributionally robust optimization.
-
-

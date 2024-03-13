@@ -1,6 +1,6 @@
 ---
 title: How to handle dataset shifts when applying machine learning to biomedical data
-status: active
+status: inactive
 layout: project
 people:
   - Jerome

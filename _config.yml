@@ -1,3 +1,4 @@
+---
 name: NeuroDataScience ORIGAMI Research Group
 url: https://neurodatascience.github.io/
 
@@ -11,17 +12,17 @@ permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
-  - key: faculty
+-   key: faculty
     name: Faculty
-  - key: staff
+-   key: staff
     name: Staff
-  - key: postdoc
+-   key: postdoc
     name: Researchers
-  - key: grad
+-   key: grad
     name: Graduate Students
-  - key: ugrad
+-   key: ugrad
     name: Undergraduate Students
-  - key: alum
+-   key: alum
     name: Alumni
 
 # Number of news stories on the front page.
@@ -32,25 +33,24 @@ base: ''
 
 # make pages for the _projects folder
 collections:
-  projects:
-    output: true
+    projects:
+        output: true
 
 # Navigation bar links.
 navigation:
-  - title: Home
+-   title: Home
     link: /
-  - title: About
+-   title: About
     link: /about.html
-  - title: People
+-   title: People
     link: /#people
-  - title: Research
+-   title: Research
     link: /research.html
-  - title: Publications
+-   title: Publications
     link: /publications.html
-  - title: Job openings
+-   title: Job openings
     link: /job_postings.html
-  - title: Lab Wiki
+-   title: Lab Wiki
     link: /wiki.html
-  - title: Events 
+-   title: Events
     link: /events.html
-

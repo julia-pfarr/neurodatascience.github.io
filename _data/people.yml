@@ -47,6 +47,7 @@ Remi:
 
 Brent:
     display_name: Brent McPherson
+    webpage: https://github.com/bcmcpher
     github: bcmcpher
     role: postdoc
     image: /img/people/brent.jpg
@@ -88,6 +89,7 @@ Jacob:
 
 Mohammad:
     display_name: Mohammad Torabi
+    webpage: https://github.com/mtorabi59
     github: mtorabi59
     role: grad
     image: /img/people/MohammadT.jpg
@@ -95,6 +97,7 @@ Mohammad:
 
 Emad:
     display_name: Emad Askarinejad
+    webpage: https://github.com/emad-askari
     github: emad-askari
     role: grad
     image: /img/people/Emad.JPG
@@ -102,6 +105,7 @@ Emad:
 
 Niusha:
     display_name: Niusha Mirhakimi
+    webpage: https://github.com/mirhnius
     github: mirhnius
     role: grad
     image: /img/people/niusha.jpg

@@ -3,7 +3,6 @@ title: The cohort creator
 subtitle: Creates a neuroimaging cohort by aggregating data across datasets.
 status: active
 layout: project
-link: https://github.com/neurodatascience/cohort_creator
 people:
   - Remi
 ---
@@ -18,7 +17,7 @@ In the current state, users encounter the following issues:
 - absence of tools facilitating access: users looking to access specific subsets of datasets across various sources encounter a significant challenge.
 - no tools for summary reports on content and quality of the accessed data. This deficiency makes it challenging for users to assess the suitability and reliability of the data they intend to use.
 
-The goals of the `cohort_creator` are:
+The goals of the [`cohort_creator`](https://github.com/neurodatascience/cohort_creator) are:
 
 1. Monitoring BIDS Datasets:
    - Periodically check specified BIDS datasets for updates.

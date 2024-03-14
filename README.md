@@ -83,6 +83,7 @@ You can also customize the icon that is displayed on the news feed. By default i
 To create a project, just create a markdown file in the `_projects` folder. Here are the things you can put in the YAML frontmatter:
 
 - `title:` The project title.
+- `subtitle:` The project subtitle.
 - `notitle:` Set this to `true` if you don't want a title displayed on the project card. Optional.
 - `description:` The text shown in the project card. It supports markdown.
 - `people:` The people working on the project. This is a list of keys from the `_data/people.yml` file.

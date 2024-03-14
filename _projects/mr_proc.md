@@ -1,5 +1,5 @@
 ---
-title: mr_proc - a reproducible computational workflow for standardized data curation and processing pipelines
+title: Nipoppy - a reproducible computational workflow for standardized data curation and processing pipelines
 subtitle: A neurobagel complement project
 status: active
 layout: project
@@ -8,17 +8,18 @@ people:
   - Vincent
   - Ines
   - Michelle
+  - Brent
 ---
 
-# mr_proc
+# Nipoppy
 
 _Process long and prosper_
 
 ---
 
-## What is mr_proc?
+## What is Nipoppy?
 
-mr_proc is a workflow manager for:
+Nipoppy is a workflow manager for:
 
 1. MRI and tabular data curation
 2. Standardized processing
@@ -41,4 +42,4 @@ mr_proc is a workflow manager for:
 
 ## Documentation
 
-Detailed documentation is provided [here](https://www.neurobagel.org/documentation/mr_proc/overview/)
+Detailed documentation is provided [here](https://www.neurobagel.org/documentation/Nipoppy/overview/)

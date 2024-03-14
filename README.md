@@ -40,14 +40,14 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 1. Install the dependencies. You will need [Python][], [bibble][] (`pip install bibble`), and [Jekyll][] (`gem install jekyll`).
 2. [Fork][] this repository on GitHub.
 3. Clone the fork to your own machine: `git clone git@github.com:yourgroup/research-group-web.git`.
-4. Add an "upstream" remote for the original repository so you can stay abreast of bugfixes: `git remote add upstream git://github.com/uwsampa/research-group-web.git`.
+4. Add an "upstream" remote for the original repository so you can stay abreast of bugfixes: `git remote add upstream git://github.com/neurodatascience/neurodatascience.github.io.git`.
 5. Customize. Start with the `_config.yml` file, where you enter the name of the site and its URL.
 6. Type `make` to build the site and then run `make serve` to view your site.
 7. Keep adding content. See below for instructions for each of the various sections.
 8. Periodically pull from the upstream repository: `git pull upstream master`.
 
 [Python]: https://www.python.org/
-[Fork]: https://github.com/uwsampa/research-group-web/fork
+[Fork]: https://github.com/neurodatascience/neurodatascience.github.io.git/fork
 
 ## Publication List
 

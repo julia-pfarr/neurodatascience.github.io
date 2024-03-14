@@ -70,7 +70,7 @@ De grand pré, Montreal Neurological Institute, McGill University, 3801 Rue Univ
 
 #### Sponsors: ASA statistics in imaging section
 
-<img src="ASA-SI-logo.png"
+<img src="/img/logos/ASA-SI-logo.png"
      alt="ASA-SI-logo"
      style="float: left; margin-right: 50px;" />
 

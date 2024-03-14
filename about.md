@@ -14,4 +14,6 @@ We are grateful for funding from Canadian Open Neuroscience Platform [(CONP)](ht
 
 The lab is a diverse group of people interested in connectomics and neuroimaging data science. We are looking to recruit more graduate students and postdocs with backgrounds in engineering, statistics, physics, and life sciences.
 
-<img src="/img/other/conp.png" alt="drawing" width="200"/><img src="/img/other/nih.png" alt="drawing" width="200"/><img src="/img/other/hbhl.png" alt="drawing" width="200"/>
+<img src="/img/other/conp.png" alt="drawing" width="200"/>
+<img src="/img/other/nih.png" alt="drawing" width="200"/>
+<img src="/img/other/hbhl.png" alt="drawing" width="200"/>

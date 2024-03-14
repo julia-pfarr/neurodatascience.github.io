@@ -34,13 +34,16 @@
           <img src="{{ site.base }}/img/logo.png" alt="Awesome" id="logo" />
         </a>
         <ul class="nav nav-pills justify-content-center">
-          {% assign shorturl = page.url | replace:'.html','' |
-          replace:'index','' %} {% for item in site.navigation %} {% assign
-          itemshorturl = item.link | replace:'.html','' %} {% assign
-          maybe-active = '' %} {% if item.title == 'Research' and page.layout ==
-          'project' %} {% assign maybe-active = 'active' %} {% endif %} {% if
-          itemshorturl == shorturl or is-research %} {% assign maybe-active =
-          'active' %} {% endif %}
+          {% assign shorturl = page.url | replace:'.html','' | replace:'index','' %}
+          {% for item in site.navigation %}
+            {% assign itemshorturl = item.link | replace:'.html','' %}
+            {% assign maybe-active = '' %}
+            {% if item.title == 'Research' and page.layout == 'project' %}
+              {% assign maybe-active = 'active' %}
+            {% endif %}
+            {% if itemshorturl == shorturl or is-research %}
+              {% assign maybe-active = 'active' %}
+            {% endif %}
 
           <li class="nav-item">
             <a
@@ -62,9 +65,12 @@
         style="max-width: 400px"
         class="img-fluid mx-auto d-block mb-4"
       />
-      {% endif %} {% if page.notitle != true %}
-      <h1>{{ page.title }}</h1>
-      {% endif %} {{ content }}
+      {% endif %}
+      {% if page.notitle != true %}
+        <h1>{{ page.title }}</h1>
+      {% endif %}
+
+      {{ content }}
 
       <div class="footer">
         <p>

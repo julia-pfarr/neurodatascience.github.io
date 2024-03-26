@@ -3,11 +3,13 @@ title: Incorporating Large Language Models (LLMs) into Modern Neuroscience
 status: active
 layout: project
 people:
-  - Brent McPherson
-  - Kendra Oudyk
+  - Brent
+  - Kendra
+  - Arman
 ---
 
 # Background
+
 Large Language Models (LLMs) are generative AI models that are able to
 produce natural language text interactively with users. By interacting
 with LLMs in a programmatic way, there are a variety of data

@@ -3,10 +3,11 @@ title: Estimating Polygenic Risk Scores (PRS) on longitudinal changes in Imaging
 status: active
 layout: project
 people:
-  - Brent McPherson
+  - Brent
 ---
 
 # Background
+
 The deep phenotyping of populations is increasingly being used to
 investigate how the brain, genetics, behavior, and clinical outcomes
 interact. Through the collaborative collection of large samples, like
@@ -29,6 +30,7 @@ contribute the most variation to the IDP, linking the genetic
 contribution to neural expression.
 
 # Methods
+
 My work revolves around contributing high quality imaging derived
 phenotypes (IDPs) across multiple datasets (UKBB, QPN, PPMI). This involves utilizing current
 standard pre-processing tools for MRI data, like [fMRIPrep](https://fmriprep.org/en/stable/) and
@@ -46,6 +48,7 @@ will improve our ability to use these biobanks to identify the neural
 and genetic features that correspond with degenerative diseases.
 
 # Goal
+
 My goal with creating these higher quality imaging derivatives (IDPs) is
 to combine them with other physiological phenotypes in the sample
 (genetics, behavior, clinical status, etc.). Incorporating polygenic

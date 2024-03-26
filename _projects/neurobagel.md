@@ -3,6 +3,8 @@ title: Neurobagel
 subtitle: Neuro(imaging) metadata integration and search
 status: active
 layout: project
+image: img/projects/Neurobagel_Landscape.svg
+documentation: https://neurobagel.org/
 people:
   - Sebastian
   - Jonathan

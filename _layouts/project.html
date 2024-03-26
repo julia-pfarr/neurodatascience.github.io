@@ -2,11 +2,27 @@
 layout: default
 ---
 
+{% if page.subtitle != null and page.subtitle != "" %}
+  <h6 class="card-subtitle mb-2 text-muted">{{ page.subtitle }}</h6>
+{% endif %}
+
+<div style="display: flex; flex-direction: column; justify-content: space-around; padding: 5px">
+  {% if page.repository != null and page.repository != "" %}
+    <a href="{{ page.repository }}">Repository</a>
+  {% endif %}
+  {% if page.documentation != null and page.documentation != "" %}
+    <a href="{{ page.documentation }}">Documentation</a>
+  {% endif %}
+</div>
+
+<hr>
+
 {{ content }}
 
 <h2>People</h2>
 <section class="people project-people">
-  {% for uname in page.people %} {% assign person = site.data.people[uname] %}
+  {% for uname in page.people %}
+    {% assign person = site.data.people[uname] %}
     {% include person.html person=person image=true%}
   {% endfor %}
 </section>

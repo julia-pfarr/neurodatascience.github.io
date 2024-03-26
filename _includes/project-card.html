@@ -1,31 +1,48 @@
-{% assign project = include.project %} {% if project.link %} {% assign proj-url
-= project.link %} {% else %} {% capture proj-url
-%}{{site.base}}{{project.url}}.html{% endcapture %} {% endif %}
+{% assign project = include.project %}
+{% if project.link %}
+  {% assign proj-url = project.link %}
+{% else %}
+  {% capture proj-url %}{{site.base}}{{project.url}}.html{% endcapture %}
+{% endif %}
 
 <div class="card">
   <div class="card-body">
-    {% if project.image %} {% assign imgurl = project.image %} {% capture init
-    %}{{ project.image | slice: 0,1 }}{% endcapture %} {% if init == "/" %} {%
-    capture imgurl %}{{site.base}}{{project.image}}{% endcapture %} {% endif %}
-    <a href="{{ proj-url }}">
-      <img class="img-fluid mb-3" src="{{imgurl}}" alt="{{project.title}}" />
-    </a>
-    {% endif %} {% if project.notitle != true %}
-    <h4 class="card-title">{{ project.title }}</h4>
-    {% endif %} {% if project.subtitle != null and project.subtitle != "" %}
+    {% if project.image %}
+      {% assign imgurl = project.image %} {% capture init %}{{ project.image | slice: 0,1 }}{% endcapture %}
+      {% if init == "/" %}
+        {% capture imgurl %}{{site.base}}{{project.image}}{% endcapture %}
+      {% endif %}
+      <a href="{{ proj-url }}">
+        <img class="img-fluid mb-3" src="{{imgurl}}" alt="{{project.title}}" />
+      </a>
+    {% endif %}
+    {% if project.notitle != true %}
+      <h4 class="card-title">{{ project.title }}</h4>
+    {% endif %}
+    {% if project.subtitle != null and project.subtitle != "" %}
     <h6 class="card-subtitle mb-2 text-muted">{{ project.subtitle }}</h6>
     {% endif %}
+
+    <div style="display: flex; justify-content: space-around; padding: 5px">
+      {% if project.repository != null and project.repository != "" %}
+        <a href="{{ project.repository }}">Repository</a>
+      {% endif %}
+      {% if project.documentation != null and project.documentation != "" %}
+        <a href="{{ project.documentation }}">Documentation</a>
+      {% endif %}
+    </div>
+
     <div class="card-text">{{ project.description | markdownify }}</div>
     {% if project.no-link != true or project.link %}
-    <a href="{{ proj-url }}"> Read more &raquo;</a>
+      <a href="{{ proj-url }}"> Read more &raquo;</a>
     {% endif %}
   </div>
   {% if project.people %}
   <div class="card-footer d-flex flex-row flex-wrap justify-content-center">
     {% for uname in project.people %}
     <div>
-      {% assign person = site.data.people[uname] %} {% include person-image.html
-      person=person %}
+      {% assign person = site.data.people[uname] %}
+      {% include person-image.html person=person %}
     </div>
     {% endfor %}
   </div>

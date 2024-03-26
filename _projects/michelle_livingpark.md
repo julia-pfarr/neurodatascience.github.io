@@ -1,7 +1,7 @@
 ---
 title: Reproducibility of a network atrophy biomarker for Parkinson's disease
 subtitle: A LivingPark paper replication
-status: active
+status: inactive
 layout: project
 people:
   - Michelle

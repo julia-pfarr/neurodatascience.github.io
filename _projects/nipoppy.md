@@ -1,5 +1,5 @@
 ---
-title: 'Nipoppy: A framework for the reproducible organization and processing neuroimaging-clinical datasets'
+title: "Nipoppy: A framework for the reproducible organization and processing neuroimaging-clinical datasets"
 subtitle: A Neurobagel complement project
 status: active
 layout: project

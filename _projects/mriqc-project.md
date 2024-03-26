@@ -1,6 +1,6 @@
 ---
 title: Is between-pipeline variability affected by image quality?
-subtitle: A subcortical segmentation use-case
+subtitle: A subcortical segmentation study
 status: active
 layout: project
 repository: https://github.com/neurodatascience/Pipeline-Discrepancy-Exploration

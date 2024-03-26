@@ -86,6 +86,9 @@ To create a project, just create a markdown file in the `_projects` folder. Here
 - `subtitle:` The project subtitle.
 - `notitle:` Set this to `true` if you don't want a title displayed on the project card. Optional.
 - `description:` The text shown in the project card. It supports markdown.
+- `repository:` URL to the repository of the project. Will be rendered in the project card and page.
+- `documentation:` URL to the documentation of the project. Will be rendered in the project card and page.
+- `description:` The text shown in the project card. It supports markdown.
 - `people:` The people working on the project. This is a list of keys from the `_data/people.yml` file.
 - `layout: project` This sets the layout of the actual project page. It should be set to `project`.
 - `image:` The URL of an image for the project. This is shown on both the project page and the project card. Optional.

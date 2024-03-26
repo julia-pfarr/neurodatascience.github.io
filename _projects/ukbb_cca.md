@@ -3,6 +3,7 @@ title: Canonical Correlation Analysis of brain and behaviour
 subtitle: Effects of sample size/composition and analysis pipeline
 status: active
 layout: project
+repository: https://github.com/neurodatascience/ukbb-cca
 people:
   - Michelle
   - Brent
@@ -21,5 +22,3 @@ The goal of this project is to investigate the effects of sample size on brain-b
 3. CCA pipeline (with or without cross-validation)
 
 We expect this study to further inform on the effects of sample size, sample composition and analysis pipeline on the replicability of multivariate methods.
-
-GitHub repository: [`ukbb-cca`](https://github.com/neurodatascience/ukbb-cca).

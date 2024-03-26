@@ -13,4 +13,4 @@ Given the ongoing reproducibility crisis in Neuroimaging, the goal of this proje
 
 In order to achieve this goal, a computational platform must be constructed that is able to iteratively evaluate and update associations between the hippocampal volume and hearing loss as new data and pipelines or processing conditions are added.
 
-Check out the  eScience [publication](https://ieeexplore.ieee.org/document/9973641) describing the initial architecture and results of the use-case. The framework is still under active development and evolving towards a more robust and user-friendly software design.
+Check out the eScience [publication](https://ieeexplore.ieee.org/document/9973641) describing the initial architecture and results of the use-case. The framework is still under active development and evolving towards a more robust and user-friendly software design.

@@ -3,7 +3,7 @@ title: Estimating Polygenic Risk Scores (PRS) on longitudinal changes in Imaging
 status: active
 layout: project
 people:
-  - Brent McPherson
+  - Brent
 ---
 
 # Background

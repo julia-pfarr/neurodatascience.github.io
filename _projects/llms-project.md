@@ -3,8 +3,9 @@ title: Incorporating Large Language Models (LLMs) into Modern Neuroscience
 status: active
 layout: project
 people:
-  - Brent McPherson
-  - Kendra Oudyk
+  - Brent
+  - Kendra
+  - Arman
 ---
 
 # Background

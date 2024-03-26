@@ -7,6 +7,7 @@ people:
   - Nikhil
   - Michelle
   - Sebastian
+  - Alyssa
 ---
 
 ### Overview

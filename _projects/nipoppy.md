@@ -25,7 +25,9 @@ The framework consists of the following:
    - Whenever possible, we follow the [Brain Imaging Data Structure (BIDS) standard](https://bids.neuroimaging.io/)
    - We provide additional specifications for cases not (yet) covered by BIDS, such as phenotypic data and imaging derivatives
 
-   <img src="/img/other/nipoppy_layout.jpg" alt="Nipoppy dataset layout" width="500">
+<p align="center">
+   <img src="/img/other/nipoppy_layout.jpg" alt="Nipoppy dataset layout" width="400">
+</p>
 
 2. A **standardized workflow process (i.e., protocol)** covering the following:
    - Curation and organization of MRI and tabular data

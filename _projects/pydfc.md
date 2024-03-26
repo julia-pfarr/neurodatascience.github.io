@@ -3,7 +3,7 @@ title: Assessing the reliability of dynamic Functional Connectivity (dFC) measur
 status: active
 layout: project
 repository: https://github.com/neurodatascience/dFC
-img: img/projects/dFC_sample.png
+image: img/projects/dFC_sample.png
 people:
   - Mohammad
 ---

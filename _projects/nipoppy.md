@@ -16,7 +16,7 @@ people:
 
 # Nipoppy
 
-Nipoppy is a lightweight framework for standardized organization and processing of datasets that have magnetic resonance imaging (MRI) and clinical data. 
+Nipoppy is a lightweight framework for standardized organization and processing of datasets that have magnetic resonance imaging (MRI) and clinical data.
 
 The framework consists of the following:
 

@@ -1,7 +1,7 @@
 ---
 title: "Nipoppy: A framework for the reproducible organization and processing neuroimaging-clinical datasets"
 subtitle: A Neurobagel complement project
-image: /img/other/nipoppy_overview.png
+image: img/other/nipoppy_overview.png
 status: active
 layout: project
 repository: https://github.com/neurodatascience/nipoppy/tree/main

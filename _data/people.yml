@@ -61,6 +61,14 @@ Nikhil:
     image: /img/people/nikhil.png
     bio: Academic Associate
 
+Julia:
+    display_name: Julia-Katharina Pfarr
+    webpage: https://github.com/julia-pfarr
+    github: julia-pfarr
+    role: postdoc
+    image: /img/people/julia.JPG
+    bio: Postdoctoral Scholar
+
 ## ---------------- GRAD ----------------
 
 Kendra:

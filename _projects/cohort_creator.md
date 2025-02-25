@@ -1,7 +1,7 @@
 ---
 title: Cohort creator
 subtitle: Creates a neuroimaging cohort by aggregating data across datasets.
-status: active
+status: inactive
 layout: project
 repository: https://github.com/neurodatascience/cohort_creator
 documentation: https://cohort-creator.readthedocs.io/en/latest/

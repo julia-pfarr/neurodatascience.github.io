@@ -24,19 +24,14 @@ Thus, we need efficient, reproducible tools for doing meta-research in order to 
 The field of meta-research is rapidly expanding as we have easier access to many papers (e.g., through PubMed).
 However, the initial stages of meta-research can be challenging for the domain experts, who probably have the most interesting meta-research questions about their field.
 
-<!-- These projects involve using APIs to collect documents, and then extracting the needed content from large amounts of text and metadata, in various formats. -->
-
 There are some existing open collections of literature that may be used for meta-research (e.g., [3], [4]).
 These datasets have been widely used (perhaps over-used); while useful, they are limited in that there is no mechanism in place to update them over time or to expand them across topics.
 Further, they only share term frequencies, not the full texts, which limits which analyses can be done.
-Thus we need meta-research tools that are not only efficient and reproducible, but also user-friendly.
+Thus, we need meta-research tools that are not only efficient and reproducible, but also user-friendly.
 
 It is our goal to facilitate neuroimaging meta-research by providing these tools.
 In the figure below, we outline the main tasks involved in performing meta-research (middle column).
 The left column of the figure shows the tools we have created to assist with these tasks, and the right column shows the locations we have created for storing and sharing the outputs of our tools, in order to make this research more standardized and reproducible.
-
-<!-- The last task, "Analyze data", is what most researchers are interested in doing.
-But the majority of time in these projects is spent on the previous steps, unless open datasets are used. -->
 
 ![meta-research-workflow](../img/other/meta-research-workflow.png)
 
@@ -49,3 +44,8 @@ But the majority of time in these projects is spent on the previous steps, unles
 [3] Yarkoni, T., Poldrack, R. A., Nichols, T. E., Van Essen, D. C., & Wager, T. D. (2011). Large-scale automated synthesis of human functional neuroimaging data. Nature methods, 8(8), 665-670.
 
 [4] Dockès, J., Poldrack, R. A., Primet, R., Gözükan, H., Yarkoni, T., Suchanek, F., ... & Varoquaux, G. (2020). NeuroQuery, comprehensive meta-analysis of human brain mapping. Elife, 9, e53385.
+
+
+# Projects
+
+- [litmining](https://litmining.github.io/) ecosystem: A set of accessible, scalable, and reliable tools for mining the biomedical literature.a-analysis of human brain mapping. Elife, 9, e53385.

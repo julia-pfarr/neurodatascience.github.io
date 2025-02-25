@@ -69,15 +69,14 @@ Julia:
     image: /img/people/julia.JPG
     bio: Postdoctoral Scholar
 
-## ---------------- GRAD ----------------
-
 Kendra:
     display_name: Kendra Oudyk
-    webpage: https://koudyk.github.io/
+    webpage: 
     github: koudyk
-    role: grad
+    role: postdoc
     image: /img/people/kendra.jpg
-    bio: PhD student
+    bio: Postdoc
+## ---------------- GRAD ----------------
 
 Jacob:
     display_name: Jacob Sanz-Robinson
@@ -118,6 +117,27 @@ Michelle:
     role: grad
     image: /img/people/michelle.jpg
     bio: PhD student
+
+Alice:
+    display_name: Alice Chen
+    webpage:
+    github:
+    role: grad
+    image:
+    bio: PhD rotation student
+
+Mathieu:
+    display_name: Mathieu Dugré
+    webpage: https://mathdugre.me
+    github: mathdugre
+    role: grad
+    image: /img/people/mathieu.png
+    bio: PhD student
+
+Kini:
+    display_name: Kini Chen
+    role: ugrad
+    bio: Undergraduate Researcher
 
 ## ---------------- ALUMNI ----------------
 

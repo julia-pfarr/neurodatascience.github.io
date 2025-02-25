@@ -39,9 +39,9 @@ Remi:
     display_name: Remi Gau
     webpage: https://remi-gau.github.io/
     github: Remi-Gau
-    role: staff
+    role: collab
     image: /img/people/remi.jpg
-    bio: Research Associate
+    bio: Close Collaborator
 
 ## ---------------- POST-DOC ----------------
 
@@ -69,23 +69,14 @@ Julia:
     image: /img/people/julia.JPG
     bio: Postdoctoral Scholar
 
-## ---------------- GRAD ----------------
-
 Kendra:
     display_name: Kendra Oudyk
-    webpage: https://koudyk.github.io/
+    webpage: 
     github: koudyk
-    role: grad
+    role: postdoc
     image: /img/people/kendra.jpg
-    bio: PhD student
-
-Irene:
-    display_name: Ting Zhang
-    webpage:
-    github:
-    role: grad
-    image: /img/people/irene.jpeg
-    bio: PhD student
+    bio: Postdoc
+## ---------------- GRAD ----------------
 
 Jacob:
     display_name: Jacob Sanz-Robinson
@@ -121,13 +112,42 @@ Niusha:
 
 Michelle:
     display_name: Michelle Wang
-    webpage: https://github.com/michellewang
+    webpage: https://michellewang.github.io/
     github: michellewang
     role: grad
     image: /img/people/michelle.jpg
     bio: PhD student
 
+Alice:
+    display_name: Alice Chen
+    webpage:
+    github:
+    role: grad
+    image:
+    bio: PhD rotation student
+
+Mathieu:
+    display_name: Mathieu Dugré
+    webpage: https://mathdugre.me
+    github: mathdugre
+    role: grad
+    image: /img/people/mathieu.png
+    bio: PhD student
+
+Kini:
+    display_name: Kini Chen
+    role: ugrad
+    bio: Undergraduate Researcher
+
 ## ---------------- ALUMNI ----------------
+
+Irene:
+    display_name: Ting Zhang
+    webpage:
+    github:
+    role: alum
+    image: /img/people/irene.jpeg
+    bio: PhD student
 
 Gael:
     display_name: Gaël Varoquaux

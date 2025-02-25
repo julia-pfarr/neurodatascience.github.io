@@ -1,5 +1,5 @@
 ---
-title: Estimating Polygenic Risk Scores (PRS) on longitudinal changes in Imaging Derived Phenotypes (IDPs)
+title: Analytic Flexibility of dMRI Preprocessing and free-water corrected DTI (fwDTI) in Parkinson's Disease (PD)
 status: active
 layout: project
 people:
@@ -8,52 +8,47 @@ people:
 
 # Background
 
-The deep phenotyping of populations is increasingly being used to
-investigate how the brain, genetics, behavior, and clinical outcomes
-interact. Through the collaborative collection of large samples, like
-the UK Biobank ([UKBB](https://www.ukbiobank.ac.uk/)), the methods and interpretation of these kinds
-of datasets can be reported and applied to real world outcomes. Large
-population samples can be used for normative modelling to contrast a
-clinical sample, like the Quebec Parkinson's Network ([QPN](https://rpq-qpn.ca/en/home/)) or the
-Parkinson's Progression Markers Initiative ([PPMI](https://www.ppmi-info.org/)).
-
-In order to maximize the information available within these samples,
-it is important to combine different modalities of information, like
-neuroimaging and genetics.
-
-A common way to combine genetics and neuroimaging data is with
-genome-wide association studies (GWAS) and the estimation of polygenic
-risk scores (PRS). A PRS model can be estimated for each neuroimaging
-feature, or an imaging derived phenotype (IDP). This provides a model
-that highlights the single nucleotide polymorphisms (SNPs) that
-contribute the most variation to the IDP, linking the genetic
-contribution to neural expression.
+Parkinson's Disease (PD) is a promininent form of dementia that has
+been challenging to prodromally identify. The typical imaging derived
+phenotypes (IDPs) that have worked well for other conditions, like
+cortical thickness, have failed to reliably predict the prognosis of
+the condition. Different modalities, like diffusion magnetic resonance
+imaging (dMRI), quantify the movement of water around axons and can be
+modeled to describe the qualities of the white matter tissue. Given
+the established changes of PD occur in these white matter connections,
+it is a promising methods to more reliably predict this disease.
 
 # Methods
 
-My work revolves around contributing high quality imaging derived
-phenotypes (IDPs) across multiple datasets (UKBB, QPN, PPMI). This involves utilizing current
-standard pre-processing tools for MRI data, like [fMRIPrep](https://fmriprep.org/en/stable/) and
-[TractoFlow](https://tractoflow-documentation.readthedocs.io/en/latest/). The analysis, quality control, and indexing of these
-derivatives is being contributed through other ongoing projects in the
-lab, namely [Nipoppy](https://www.neurobagel.org/documentation/Nipoppy/overview/) and [NeuroBagel](https://www.neurobagel.org/documentation/).
+dMRI Processing needs to be correctly preprocessed in order to
+reliably model the underlying anatomy captured by the scan. Some
+steps, such as eddy current and motion correction, are necessary to
+reliably interpret the data. Other steps, such as denoising and Gibbs
+de-ringing, can be applied with different algorithms at different
+stages and may have a differing impact on the eventual
+interpretability. Much of this work is being compared through two
+pipelines, ([QSIPrep](https://qsiprep.readthedocs.io/en/latest/)) and
+([TractoFlow](https://tractoflow-documentation.readthedocs.io/en/latest/)).
+These pipelines are largely identical, but standardizing the comparison between similar
+tools for identifying their impact on an analysis is important to understand.
 
-With these high-quality IDPs generated, I am estimating the
-variational inference of polygenic risk scores
-([VIPRS](https://pubmed.ncbi.nlm.nih.gov/37030289/)). I am extending
-this approach by estimating the PRS of the _longitudinal_ change of
-the IDPs from the samples. This will more accurately
-target the SNPs that correspond to change over time in the IDPs. This
-will improve our ability to use these biobanks to identify the neural
-and genetic features that correspond with degenerative diseases.
+The most commonly used model for interpreting dMRI data is the
+diffuion tensor (DTI). This summarizes the observed movement of water
+within the brain, providing an estimated axis of primary movement
+and a measure of isotropy / anisotropy for that orientation. A
+free-water corrected tensor (fwDTI) adds an additional anisostropic
+metric measuring the "background" isotropy independent of the signal
+in the white matter. This information corresponds to surrounding
+support tissue of the white matter measured by the regular tensor
+components. Changes in this component have been found to correspond to
+the clinical progression of PD in different subcortical connections.
 
 # Goal
 
-My goal with creating these higher quality imaging derivatives (IDPs) is
-to combine them with other physiological phenotypes in the sample
-(genetics, behavior, clinical status, etc.). Incorporating polygenic
-risk scores (PRS) with the imaging phenotypes will allow researchers
-to maximize the use of information in these biobanks. By extending
-this usage to incorporate longitudinal change in the PRS estimates of
-the IDPs we can better identify the multi-modal features that underlie
-the transition toward a disease.
+My goal is to describe the impact of processing decisions on the
+ability of diffusion tensor models to make clinically relevant
+predictions. I am also exploring the impact of the different
+parameterizations and methods of predicting fwDTI. I hope to
+identify the processing steps and modeling procedures that maximize
+the utility of this promising method. With this model we can better
+understand the underlying neural changes associated with PD.

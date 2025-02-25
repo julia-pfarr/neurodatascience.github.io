@@ -1,6 +1,6 @@
 ---
 title: Staging and Subtyping of Parkinson's disease progression with imaging biomarkers
-status: active
+status: inactive
 layout: project
 people:
   - Michelle

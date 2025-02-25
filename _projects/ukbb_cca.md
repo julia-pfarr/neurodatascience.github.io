@@ -22,3 +22,5 @@ The goal of this project is to investigate the effects of sample size on brain-b
 3. CCA pipeline (with or without cross-validation)
 
 We expect this study to further inform on the effects of sample size, sample composition and analysis pipeline on the replicability of multivariate methods.
+
+Preprint coming soon!

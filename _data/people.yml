@@ -127,6 +127,14 @@ Michelle:
     image: /img/people/michelle.jpg
     bio: PhD student
 
+Mathieu:
+    display_name: Mathieu Dugré
+    webpage: https://mathdugre.me
+    github: mathdugre
+    role: grad
+    image: /img/people/mathieu.jpg
+    bio: PhD student
+
 ## ---------------- ALUMNI ----------------
 
 Gael:

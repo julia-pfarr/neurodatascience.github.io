@@ -78,14 +78,6 @@ Kendra:
     bio: Postdoc
 ## ---------------- GRAD ----------------
 
-Irene:
-    display_name: Ting Zhang
-    webpage:
-    github:
-    role: grad
-    image: /img/people/irene.jpeg
-    bio: PhD student
-
 Jacob:
     display_name: Jacob Sanz-Robinson
     webpage: https://jacobsanz97.github.io/
@@ -148,6 +140,14 @@ Kini:
     bio: Undergraduate Researcher
 
 ## ---------------- ALUMNI ----------------
+
+Irene:
+    display_name: Ting Zhang
+    webpage:
+    github:
+    role: alum
+    image: /img/people/irene.jpeg
+    bio: PhD student
 
 Gael:
     display_name: Gaël Varoquaux

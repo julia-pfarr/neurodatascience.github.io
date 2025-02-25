@@ -1,7 +1,7 @@
 ---
 title: Building a normal brain aging model with MRI imaging data
 subtitle: Modelling the conditional quantile of the aging process
-status: active
+status: inactive
 layout: project
 people:
   - Irene

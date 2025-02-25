@@ -69,15 +69,14 @@ Julia:
     image: /img/people/julia.JPG
     bio: Postdoctoral Scholar
 
-## ---------------- GRAD ----------------
-
 Kendra:
     display_name: Kendra Oudyk
-    webpage: https://koudyk.github.io/
+    webpage: 
     github: koudyk
-    role: grad
+    role: postdoc
     image: /img/people/kendra.jpg
-    bio: PhD student
+    bio: Postdoc
+## ---------------- GRAD ----------------
 
 Irene:
     display_name: Ting Zhang
@@ -126,6 +125,14 @@ Michelle:
     role: grad
     image: /img/people/michelle.jpg
     bio: PhD student
+
+Alice:
+    display_name: Alice Chen
+    webpage:
+    github:
+    role: grad
+    image:
+    bio: PhD rotation student
 
 ## ---------------- ALUMNI ----------------
 

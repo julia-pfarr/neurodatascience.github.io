@@ -134,6 +134,19 @@ Alice:
     image:
     bio: PhD rotation student
 
+Mathieu:
+    display_name: Mathieu Dugré
+    webpage: https://mathdugre.me
+    github: mathdugre
+    role: grad
+    image: /img/people/mathieu.png
+    bio: PhD student
+
+Kini:
+    display_name: Kini Chen
+    role: ugrad
+    bio: Undergraduate Researcher
+
 ## ---------------- ALUMNI ----------------
 
 Gael:

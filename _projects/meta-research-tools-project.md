@@ -47,5 +47,4 @@ The left column of the figure shows the tools we have created to assist with the
 
 
 # Projects
-
-- [litmining](https://litmining.github.io/) ecosystem: A set of accessible, scalable, and reliable tools for mining the biomedical literature.
+- [litmining](https://litmining.github.io/) ecosystem: A set of accessible, scalable, and reliable tools for mining the biomedical literature.a-analysis of human brain mapping. Elife, 9, e53385.

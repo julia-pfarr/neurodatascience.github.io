@@ -17,13 +17,6 @@ title: Lab Wiki
   (check in the slack for changes to place/time).
 - Before each lab meeting, fill in the meetings google doc
   with what you’ve been working on and anything you want to discuss (see Slack for link).
-- Get added to the Google Group for Open Science Beers/Beverages.
-  People from our lab and other labs/institutes in Montreal
-  who are interested in open science have a casual social
-  roughly every week on Wednesdays around 4:44-6:30 pm.
-  The location changes, but it’s usually at Else’s.
-  Often someone will send an email out to the Google Group
-  to confirm that someone will be there.
 - Get a compute canada account.
 - Set up your print account for the lab’s print card
 
